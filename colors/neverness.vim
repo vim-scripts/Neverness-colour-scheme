@@ -139,6 +139,8 @@ hi Pmenu       ctermfg=White ctermbg=DarkBlue  guifg=#000000 guibg=#4682b4 gui=n
 hi PmenuSbar   ctermfg=White ctermbg=LightCyan guifg=#ffffff guibg=#848484 gui=none
 hi PmenuThumb  ctermfg=White ctermbg=DarkGreen guifg=#ffffff guibg=#87ceeb gui=none
 
-"email pita.
+" email pita.
 hi mailEmail ctermfg=Cyan ctermbg=Black 
 
+" Signbar plugin from Hannes Saffrich <hannes.saffrich@uranus.uni-freiburg.de>
+hi SignColumn ctermfg=DarkMagenta guifg=#2b506e guibg=#000000
